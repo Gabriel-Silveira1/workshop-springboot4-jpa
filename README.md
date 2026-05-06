@@ -1,4 +1,4 @@
-# coursejava
+# Spring Boot - JPA
 
 A study-oriented Spring Boot REST API that models a small e-commerce domain (users, categories, products, orders, order items and payments). The project is organized in a classic layered architecture and is intended as a hands-on reference for building, running and extending a Spring Boot application backed by JPA/Hibernate.
 
