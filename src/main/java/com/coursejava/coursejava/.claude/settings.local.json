@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd c:/ws-sts/coursejava && pwd && ls)",
+      "Read(//c/ws-sts/coursejava/**)"
+    ]
+  }
+}
