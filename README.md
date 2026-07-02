@@ -1,6 +1,6 @@
 # Spring Boot - JPA
 
-A study-oriented Spring Boot REST API that models a small e-commerce domain (users, categories, products, orders, order items and payments). The project is organized in a classic layered architecture and is intended as a hands-on reference for building, running and extending a Spring Boot application backed by JPA/Hibernate.
+RESTful API built with Java, Spring Boot and JPA/Hibernate modeling an e-commerce domain with Users, Categories, Products, Orders, Order Items and Payments. Follows a classic layered architecture (Resource → Service → Repository) with full CRUD, centralized exception handling via @ControllerAdvice, environment profiles (dev/test), automatic data seeding and PostgreSQL integration for production.
 
 ---
 
